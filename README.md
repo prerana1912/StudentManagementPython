@@ -1,1 +1,2 @@
-# StudentManagementPython
+# Student Management System Using Python
+This project contains Add,view,Delete,Update and Chart buttons.Chart button creates a chart in that we see Student Progress report. After that at left bottom current Location display and at the right bottem current temperature according to location displays.At the end quotes of the day will be display from the site https://www.brainyquote.com/ .In this project name,roll number and marks this data are used, firstly thos data validates and then operations linke add view delete update perfoms.
